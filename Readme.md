@@ -7,3 +7,5 @@ Just 4 fun!
 ## Products
 
 ![](./icons/codegirls-v1.png)
+
+![](./icons/bug.png)
